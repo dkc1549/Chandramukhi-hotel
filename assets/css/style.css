@@ -27,12 +27,19 @@ html {
     scroll-behavior: smooth;
 }
 
+<<<<<<< HEAD
 header {
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
     background: #fff;
+=======
+header{
+    position:sticky;
+    top: 0; left: 0; right: 0;
+    background:#fff ;
+>>>>>>> 791a5b4cfbe0feca2d5d7faa777d507f14798644
     padding: 1rem 7%;
     display: flex;
     align-items: center;
@@ -60,6 +67,18 @@ header .navbar a {
 
 }
 
+
+/* Navbar code starts here */
+.navbar{
+    display: flex;
+}
+
+/* Icon code starts here */
+header .icons{
+    display: flex;
+}
+
+
 header .navbar a.home,
 header .navbar a:hover {
     color: #fff;
@@ -74,16 +93,27 @@ header,
     margin-left: .5rem;
     height: 4.5rem;
     line-height: 4.5rem;
-    width: 4.5rem;
+    /* width: 4.5rem; */
     text-align: center;
     font-size: 1.7rem;
     color: var(--black);
+<<<<<<< HEAD
     border-radius: 50%;
     background: #eee;
+=======
+    /* border-radius: 50%; */
+    background:#eee;
+>>>>>>> 791a5b4cfbe0feca2d5d7faa777d507f14798644
 
 }
 
 header .icons i:hover,
+<<<<<<< HEAD
 header .icons a:hover {
     color:#27ae60;  
 }
+=======
+header .icons a:hover{
+    color:#27ae60;
+}
+>>>>>>> 791a5b4cfbe0feca2d5d7faa777d507f14798644

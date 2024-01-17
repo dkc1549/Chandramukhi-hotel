@@ -10,7 +10,9 @@
 <body>
 <!--header section start-->
 <header>
+    <div>
     <a href="#" class="logo"><i class="fas-fa-untensils"></i>restro</a>
+    </div>
     
     <nav class="navbar" >
         <a href="#home">Home</a>
