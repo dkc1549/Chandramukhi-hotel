@@ -15,7 +15,7 @@
     </div>
     
     <nav class="navbar" >
-        <a href="#home">Home</a>
+        <a href="#active">Home</a>
         <a href="#dishes">Dishes</a>
         <a href="#about">About</a>
         <a href="#menu">Menu</a>
@@ -31,6 +31,14 @@
     </div>
 </header>
 <!--header section ends-->
+
+<!--form section-->
+<form action="" id="search-form">
+    <input type="search" placeholder="search" name=""  id="search-box">
+    <label for="search-box" class="fas fa-search"></label>
+    <i class="fas fa-times" id-"close"></i><!--milena-->
+</form>
+
 
 
 
