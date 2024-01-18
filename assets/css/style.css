@@ -32,6 +32,24 @@ section{
 section:nth-child(even){
     background: #eee;
 }
+
+.btn{
+    margin-top: 1rem;
+    display: inline-block;
+    font-size: 3rem;
+    color: #eee;
+    background: var(--black);
+    border-radius: 5rem;
+    cursor: pointer;
+    padding: .8rem 3rem;
+}
+
+.btn:hover{
+    background: var(--green);
+    letter-spacing: .1rem;
+}
+
+
 header {
     position: sticky;
     top: 0;
@@ -183,8 +201,17 @@ header .icons #menu-bars{
    color: var(--green);
    font-size: 2.5rem; 
 }
+.home .home-slider .slide .content h3{
+    color: var(--black);
+    font-size: 7rem; 
+ }
 
-
+ .home .home-slider .slide .content p{
+    color: var(--light-color);
+    font-size: 2.2rem; 
+    padding: 5rem 0;
+    line-height: 1.5;
+ }
 
 
 
