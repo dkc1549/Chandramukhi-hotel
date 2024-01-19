@@ -12,7 +12,7 @@ window.onscroll = () => {
     navbar.classList.remove('actve'); 
 }
 
-ssearchIcon.onclick = () => {
+searchIcon.onclick = () => {
     document.querySelector('#search-form').classList.toggle('active');
 };
 document.querySelector('#close').onclick = () => {
