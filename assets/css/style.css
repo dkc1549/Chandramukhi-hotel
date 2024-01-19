@@ -213,7 +213,10 @@ header .icons #menu-bars{
     line-height: 1.5;
  }
 
-
+/*sliderko talako dot harulai click garda green dekhako*/
+.swiper-pagination-bullet-active{
+    background: var(--green);
+}
 
 
 
@@ -235,6 +238,11 @@ header .icons #menu-bars{
   header{
     padding: 1rem 2rem;
   }
+
+ section{
+    padding: 1rem 2rem;
+  }
+
 }
 
 @media (max-width:768px){
@@ -269,7 +277,11 @@ header .icons #menu-bars{
 
 
 
+
     }
+    .home .home-slider .slide .content h3{
+        font-size: 5rem; 
+
     
 }
 

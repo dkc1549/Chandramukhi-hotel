@@ -45,7 +45,7 @@
 <!--home secction starts-->
 <section class="home" id="home">
 
-    <div class=" swiper ">
+    <div class=" swiper home-slider">
 
         <div class="swiper-wrapper wrapper">
 
