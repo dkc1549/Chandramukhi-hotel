@@ -95,6 +95,100 @@
 
     <!--home secction ends-->
 
+    <!--dishes section starts-->
+<section class="dishes" id="dishes">
+  <h3 class="sub-heading">our dishes</h3> 
+   <h1 class="heading">popular dishes</h1> 
+
+   <div class="box-container">
+
+   <div class="box">
+    <a href="#" class="fas fa-heart"></a>
+    <a href="#" class="fas fa-eye"></a>
+    <img scr="assets/uploads/burger.jpg" alt="">
+    <h3>Tasty food</h3>
+    <div class="stars">
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-half-alt"></i>
+   </div>
+   <span>Rs.100</span>
+   <a href="#" class="btn">add to cart</a>
+</div>
+
+<div class="box">
+    <a href="#" class="fas fa-heart"></a>
+    <a href="#" class="fas fa-eye"></a>
+    <img scr="assets/uploads/fries.jpg" alt="">
+    <h3>Tasty food</h3>
+    <div class="stars">
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-half-alt"></i>
+   </div>
+   <span>Rs.100</span>
+   <a href="#" class="btn">add to cart</a>
+</div>
+
+<div class="box">
+    <a href="#" class="fas fa-heart"></a>
+    <a href="#" class="fas fa-eye"></a>
+    <img scr="assets/uploads/sandwich.jpg" alt="">
+    <h3>Tasty food</h3>
+    <div class="stars">
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-half-alt"></i>
+   </div>
+   <span><Rs class="200"></Rs></span>
+   <a href="#" class="btn">add to cart</a>
+</div>
+<div class="box">
+    <a href="#" class="fas fa-heart"></a>
+    <a href="#" class="fas fa-eye"></a>
+    <img scr="assets/uploads/dish4.jpg" alt="">
+    <h3>Tasty food</h3>
+    <div class="stars">
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-half-alt"></i>
+   </div>
+   <span>Rs.100</span>
+   <a href="#" class="btn">add to cart</a>
+</div>
+<div class="box">
+    <a href="#" class="fas fa-heart"></a>
+    <a href="#" class="fas fa-eye"></a>
+    <img scr="assets/uploads/dish5.jpg" alt="">
+    <h3>Tasty food</h3>
+    <div class="stars">
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-half-alt"></i>
+   </div>
+   <span>Rs.100</span>
+   <a href="#" class="btn">add to cart</a>
+</div>
+
+</section>
+
+
+
+
+
+
+    <!--dishes section ends-->
+
     search-form -> active
     menu-bars-> fa-times
 

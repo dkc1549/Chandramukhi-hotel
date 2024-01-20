@@ -32,6 +32,25 @@ section:nth-child(even){
     background: #eee;
 }
 
+/*miena sub heading headig*/
+.sub-heading{
+  text-align: center;
+  color: var(--green);
+  font-size: 2rem;
+  padding-top: 1rem;
+
+}
+
+.heading{
+  text-align: center;
+  color:var(--black);
+  font-size: 3rem;
+  padding-bottom: 2rem;
+}
+/*miena sub heading headig*/
+
+
+
 .btn{
     margin-top: 1rem;
     display: inline-block;
@@ -212,6 +231,16 @@ header .icons #menu-bars {
     background: var(--green);
 }
 
+
+
+
+
+
+
+.dishes .box-container{
+  display: grid;
+  grid-template-columns: repeat(auto-fit,mimax(28rem,1fr));
+}
 
 
 
