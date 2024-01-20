@@ -42,7 +42,7 @@
         <form action="" id="search-form">
             <input type="search" placeholder="search" name="" id="search-box">
             <label for="search-box" class="fas fa-search"></label>
-            <i class="fas fa-times" id="close"></i><!--milena-->
+            <i class="fas fa-times" id="close"></i>
         </form>
     </div>
 
