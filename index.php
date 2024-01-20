@@ -167,7 +167,7 @@
 <div class="box">
     <a href="#" class="fas fa-heart"></a>
     <a href="#" class="fas fa-eye"></a>
-    <img scr="assets/uploads/dish5.jpg" alt="">
+    <img scr="assets/uploads/wholechicken.jpg" alt="">
     <h3>Tasty food</h3>
     <div class="stars">
         <i class="fas fa-star"></i>
@@ -193,13 +193,13 @@
 <div class="row">
 
      <div class="image">
-        <img scr="assets/uploads/cake.jpg" alt="">
+        <img scr="assets/uploads/about.png" alt="">
         <a href="#"></a>
     </div>
 
     <div class="content">
         <h3>best food in pokhara</h3>
-        <p>here yuccan find best food in the world. We ell al kinds of food we are very happy delicver such food to you. we have quich service here.thank you</p>
+        <p>here you can find best food in the world. We ell al kinds of food we are very happy delicver such food to you. we have quich service here.thank you</p>
         <div class="icons-container">
              <div class="icons">
                 <i class="fas fa-shipping-fast"></i>
