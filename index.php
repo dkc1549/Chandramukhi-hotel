@@ -411,7 +411,38 @@
 </form>
 
 </section>
-<!--review section ends-->
+<!--order section ends-->
+
+<!--footer section starts-->
+<section class="footer">
+    <div class="box-container">
+        <div class="box">
+            <h3>location</h3>
+            <a href="#">India</a>
+            <a href="#">China</a>
+            <a href="#">Nepal</a>
+            <a href="#">Japan</a>  
+        </div>
+
+        <div class="box">
+            <h3>Qick link</h3>
+            <a href="#">home</a>
+            <a href="#">adishes</a>
+            <a href="#">about</a>
+            <a href="#">menu</a>
+            <a href="#">review</a>
+            <a href="#">order</a>
+        </div>
+
+        <div class="box">
+            <h3>Contact info</h3>
+            <a href="#">9826156333</a>
+           <a href="#">chandradura05@gmail.com</a>
+           <a href="#">devkc@gmail.com</a>
+           <a href="#">Rambazar-15,Pokhara</a>
+        </div>
+    </div>
+</section>
 
 
 
