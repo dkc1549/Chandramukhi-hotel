@@ -137,7 +137,7 @@
 <div class="box">
     <a href="#" class="fas fa-heart"></a>
     <a href="#" class="fas fa-eye"></a>
-    <img scr="assets/uploads/sandwich.jpg" alt="">
+    <img scr="assets/upload/sandwich.jpg" alt="">
     <h3>Tasty food</h3>
     <div class="stars">
         <i class="fas fa-star"></i>
@@ -307,7 +307,7 @@
         <div class="swiper-slide slide">
             <i class="fas fa-quote-right"></i>
             <div class="user">
-                <img src="assets/uploads/review1.jpg" alt="">
+                <img src="assets/uploads/aarat.jpg" alt="">
                 <div class="user-info">
                     <h3>Aarati</h3>
                     <div class ="stars">
@@ -324,7 +324,7 @@
         <div class="swiper-slide slide">
             <i class="fas fa-quote-right"></i>
             <div class="user">
-                <img src="assets/uploads/pizza.jpg" alt="">
+                <img src="assets/uploads/sagar.jpg" alt="">
                 <div class="user-info">
                     <h3>sagar</h3>
                     <div class ="stars">
@@ -341,9 +341,26 @@
         <div class="swiper-slide slide">
             <i class="fas fa-quote-right"></i>
             <div class="user">
-                <img src="assets/uploads/pizza.jpg" alt="">
+                <img src="assets/uploads/prakriti.jpg" alt="">
                 <div class="user-info">
-                    <h3>Kabita</h3>
+                    <h3>prakriti</h3>
+                    <div class ="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+            </div>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est fugiat repellat maxime temporibus fugit, ratione sed quod tenetur asperiores assumenda soluta aperiam porro dolor non, vero reiciendis qui magnam recusandae.</p>
+        </div>
+
+        <div class="swiper-slide slide">
+            <i class="fas fa-quote-right"></i>
+            <div class="user">
+                <img src="assets/uploads/ashish.jpg" alt="">
+                <div class="user-info">
+                    <h3>Aashish</h3>
                     <div class ="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
@@ -434,11 +451,11 @@
             <a href="#">order</a>
         </div>
 
-        <div class="box">
+        <div class="box" id="contactus">
             <h3>Contact info</h3>
             <a href="#">9826156333</a>
-           <a href="#">chandradura05@gmail.com</a>
-           <a href="#">devkc@gmail.com</a>
+           <a href="mailto:chandradura05@gmail.com">chandradura05@gmail.com</a>
+           <a href="mailto:darshankc@gmail.com">darshankc@gmail.com</a>
            <a href="#">Rambazar-15,Pokhara</a>
         </div>
     </div>
