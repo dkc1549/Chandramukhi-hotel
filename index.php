@@ -372,6 +372,22 @@
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est fugiat repellat maxime temporibus fugit, ratione sed quod tenetur asperiores assumenda soluta aperiam porro dolor non, vero reiciendis qui magnam recusandae.</p>
         </div>
         
+        <div class="swiper-slide slide">
+            <i class="fas fa-quote-right"></i>
+            <div class="user">
+                <img src="assets/uploads/kabita.jpg" alt="" height-"300px" width="200px">
+                <div class="user-info">
+                    <h3>kabita</h3>
+                    <div class ="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+            </div>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est fugiat repellat maxime temporibus fugit, ratione sed quod tenetur asperiores assumenda soluta aperiam porro dolor non, vero reiciendis qui magnam recusandae.</p>
+        </div>
     </div>
 </div>
 </section>
